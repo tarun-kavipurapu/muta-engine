@@ -1,0 +1,38 @@
+[19 Sep, 2024 - 18:54:27:5427] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 18:54:53:5453] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 18:55:06:556] [31merror[39m: [31m[39m
+[31mInvalid `prismaClient.user.create()` invocation in[39m
+[31mC:\Users\Tarun\Desktop\muta-engine\src\controllers\user.controllers.ts:78:40[39m
+
+[31m  75 [39m
+[31m  76 const hashedPassword = await hashPassword(password);[39m
+[31m  77 [39m
+[31m→ 78 const user = await prismaClient.user.create({[39m
+[31m       data: {[39m
+[31m         email: "tarunsharmakavipurapu@gmail.com",[39m
+[31m         password: "$2b$10$JZf3dZcM5.ObHV/NeBvy7uYNOWv1puWFT6uZnVO6Z2PtDD2MVeF9.",[39m
+[31m     +   name: String[39m
+[31m       },[39m
+[31m       select: {[39m
+[31m         id: true,[39m
+[31m         email: true,[39m
+[31m         name: true,[39m
+[31m         googleId: true,[39m
+[31m         createdAt: true,[39m
+[31m         updatedAt: true[39m
+[31m       }[39m
+[31m     })[39m
+
+[31mArgument `name` is missing.[39m
+[19 Sep, 2024 - 18:58:10:5810] [31merror[39m: [31mDatabase Error[39m
+[19 Sep, 2024 - 18:59:46:5946] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 19:00:08:08] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 19:00:28:028] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 19:01:33:133] [31merror[39m: [31mExpected double-quoted property name in JSON at position 112 (line 5 column 1)[39m
+[19 Sep, 2024 - 19:02:13:213] [31merror[39m: [31mUser with email or username already exists[39m
+[19 Sep, 2024 - 19:05:58:558] [31merror[39m: [31mUser with email or username already exists[39m
+[19 Sep, 2024 - 19:05:58:558] [34minfo[39m: [34m::1 POST /api/v1/users/signup 409 101 - 307.110 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 19:06:03:63] [31merror[39m: [31mUser with email or username already exists[39m
+[19 Sep, 2024 - 19:06:03:63] [34minfo[39m: [34m::1 POST /api/v1/users/signup 409 101 - 14.018 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 19:06:07:67] [34minfo[39m: [34m::1 POST /api/v1/users/signup 201 257 - 92.004 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 19:09:32:932] [31merror[39m: [31mUser with email or username already exists[39m

@@ -10,11 +10,29 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = env("DB_SOURCE")
 }
 
 model User {
-  id    Int    @id @default(autoincrement())
-  name  String
-  email String
+  id       Int     @id @default(autoincrement())
+  name     String
+  email    String  @unique
+  password String? //in caase of google login no password
+  googleId String? @unique
+
+  refreshTokens RefreshToken[]
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+
+  @@index([email])
+  @@map("users")
+}
+
+model RefreshToken {
+  id        String   @id @default(uuid())
+  token     String   @unique
+  userId    Int
+  user      User     @relation(fields: [userId], references: [id])
+  expiresAt DateTime
+  createdAt DateTime @default(now())
 }
