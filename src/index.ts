@@ -18,7 +18,9 @@ export const prismaClient = new PrismaClient({ log: ["query"] });
 
 //routes
 import userRoutes from "./routes/user.routes";
+import productRoutes from "./routes/product.routes";
 app.use("/api/v1/users", userRoutes);
+app.use("/api/v1/product", productRoutes);
 
 app.get("/", (req, res) => {
   res.send("Hello, world!");

@@ -36,3 +36,9 @@
 [19 Sep, 2024 - 19:06:03:63] [34minfo[39m: [34m::1 POST /api/v1/users/signup 409 101 - 14.018 ms - PostmanRuntime/7.42.0[39m
 [19 Sep, 2024 - 19:06:07:67] [34minfo[39m: [34m::1 POST /api/v1/users/signup 201 257 - 92.004 ms - PostmanRuntime/7.42.0[39m
 [19 Sep, 2024 - 19:09:32:932] [31merror[39m: [31mUser with email or username already exists[39m
+[19 Sep, 2024 - 21:05:58:558] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 22:13:28:1328] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:15:03:153] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:18:52:1852] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:19:27:1927] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:20:15:2015] [31merror[39m: [31mUnauthorized request[39m

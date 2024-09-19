@@ -14,11 +14,11 @@ datasource db {
 }
 
 model User {
-  id       Int     @id @default(autoincrement())
-  name     String
-  email    String  @unique
-  password String? //in caase of google login no password
-  googleId String? @unique
+  id        Int                   @id @default(autoincrement())
+  name      String
+  email     String                @unique
+  password  String //in caase of google login no password
+  loginType AvailableSocialLogins @default(EMAIL_PASSWORD)
 
   refreshTokens RefreshToken[]
   createdAt     DateTime       @default(now())
@@ -35,4 +35,9 @@ model RefreshToken {
   user      User     @relation(fields: [userId], references: [id])
   expiresAt DateTime
   createdAt DateTime @default(now())
+}
+
+enum AvailableSocialLogins {
+  GOOGLE
+  EMAIL_PASSWORD
 }

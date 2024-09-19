@@ -37,3 +37,23 @@
 [19 Sep, 2024 - 19:06:07:67] [34minfo[39m: [34m::1 POST /api/v1/users/signup 201 257 - 92.004 ms - PostmanRuntime/7.42.0[39m
 [19 Sep, 2024 - 19:09:32:932] [31merror[39m: [31mUser with email or username already exists[39m
 [19 Sep, 2024 - 19:09:32:932] [35mhttp[39m: [35m::1 POST /api/v1/users/signup 409 393 - 101.946 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 21:05:27:527] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 209.674 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 21:05:44:544] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 110.764 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 21:05:58:558] [31merror[39m: [31mInvalid data[39m
+[19 Sep, 2024 - 21:05:58:558] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1614 - 9.231 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 21:06:34:634] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 107.878 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:13:28:1328] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:13:28:1328] [35mhttp[39m: [35m::1 GET /api/v1/product/test 401 1110 - 18.985 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:14:57:1457] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 354.126 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:15:03:153] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:15:03:153] [35mhttp[39m: [35m::1 GET /api/v1/product/test 401 1110 - 3.803 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:18:52:1852] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:18:52:1852] [35mhttp[39m: [35m::1 GET /api/v1/product/test 401 1110 - 61.664 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:19:22:1922] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 315.444 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:19:27:1927] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:19:27:1927] [35mhttp[39m: [35m::1 GET /api/v1/product/test 401 1110 - 14.889 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:20:15:2015] [31merror[39m: [31mUnauthorized request[39m
+[19 Sep, 2024 - 22:20:15:2015] [35mhttp[39m: [35m::1 GET /api/v1/product/test 401 1110 - 8.954 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:20:19:2019] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 133.511 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:20:32:2032] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 76.871 ms - PostmanRuntime/7.42.0[39m
+[19 Sep, 2024 - 22:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/product/test 200 4 - 8.788 ms - PostmanRuntime/7.42.0[39m
