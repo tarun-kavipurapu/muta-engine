@@ -20,9 +20,10 @@ model User {
   password  String //in caase of google login no password
   loginType AvailableSocialLogins @default(EMAIL_PASSWORD)
 
-  refreshTokens RefreshToken[]
-  createdAt     DateTime       @default(now())
-  updatedAt     DateTime       @updatedAt
+  refreshTokens      RefreshToken[]
+  createdAt          DateTime             @default(now())
+  updatedAt          DateTime             @updatedAt
+  passwordResetToken PasswordResetToken[]
 
   @@index([email])
   @@map("users")
@@ -32,6 +33,16 @@ model RefreshToken {
   id        String   @id @default(uuid())
   token     String   @unique
   userId    Int
+  user      User     @relation(fields: [userId], references: [id])
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
+model PasswordResetToken {
+  id        String   @id @default(uuid())
+  token     String   @unique
+  userId    Int
+  used      Boolean
   user      User     @relation(fields: [userId], references: [id])
   expiresAt DateTime
   createdAt DateTime @default(now())

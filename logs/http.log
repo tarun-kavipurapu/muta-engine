@@ -57,3 +57,278 @@
 [19 Sep, 2024 - 22:20:19:2019] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 133.511 ms - PostmanRuntime/7.42.0[39m
 [19 Sep, 2024 - 22:20:32:2032] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 755 - 76.871 ms - PostmanRuntime/7.42.0[39m
 [19 Sep, 2024 - 22:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/product/test 200 4 - 8.788 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 14:24:59:2459] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 200 4 - 5.317 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 14:26:18:2618] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 1.274 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 14:27:26:2726] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 1.169 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 14:29:38:2938] [31merror[39m: [31mNot allowed by CORS[39m
+[20 Sep, 2024 - 14:29:38:2938] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 500 1485 - 31.048 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 14:31:03:313] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 1.259 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 14:31:08:318] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 14:31:08:318] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1469 - 4119.313 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 15:25:20:2520] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 4.995 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 15:26:52:2652] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.563 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 15:26:56:2656] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 15:26:56:2656] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1469 - 4129.780 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:01:27:127] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:27:127] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 17.347 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:01:27:127] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:27:127] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.771 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:01:32:132] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:32:132] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.621 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:01:32:132] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:32:132] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.198 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:02:00:20] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.312 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:02:04:24] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:02:04:24] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1469 - 4103.847 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:03:08:38] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.134 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:03:12:312] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:03:12:312] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1469 - 4085.043 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:03:30:330] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:03:30:330] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 12.384 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:03:30:330] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:03:30:330] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.807 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:05:22:522] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.193 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:05:26:526] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:05:26:526] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1469 - 4053.656 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:06:50:650] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.758 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:06:54:654] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:06:54:654] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 1469 - 4049.059 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:07:01:71] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.222 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:07:01:71] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 214.164 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:08:26:826] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 271 - 34.274 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:08:26:826] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 25.917 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:01:91] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 39.848 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:01:91] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 27.764 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:05:95] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 13.005 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:06:96] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 22.809 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:07:97] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 10.838 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:07:97] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.595 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:11:911] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 11.610 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:09:12:912] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.731 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:11:59:1159] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 40.646 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:11:59:1159] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 14.878 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:12:55:1255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 17.817 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:12:55:1255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 37.237 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:46:1346] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 25.932 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:46:1346] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.722 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:49:1349] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 11.271 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:49:1349] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 13.941 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:55:1355] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 10.178 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:55:1355] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 21.148 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:59:1359] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.539 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:13:59:1359] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 19.641 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:05:145] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 11.776 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:05:145] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 26.191 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:27:1427] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.277 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:27:1427] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 7.926 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:27:1427] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:14:27:1427] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 12.368 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:47:1447] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.253 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:14:47:1447] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 100.841 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:24:03:243] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 2.667 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:24:03:243] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 155.919 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:24:03:243] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:24:03:243] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 9.975 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:25:20:2520] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:25:20:2520] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.877 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 16:25:20:2520] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:25:20:2520] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.459 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:04:54:454] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:04:54:454] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 148.929 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:04:54:454] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:04:54:454] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.905 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:04:57:457] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:04:57:457] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 6.980 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:04:57:457] [35mhttp[39m: [35m::1 GET /favicon.ico 404 150 - 4.971 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:10:45:1045] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:10:45:1045] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.866 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:10:45:1045] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:10:45:1045] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.594 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:10:47:1047] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:10:47:1047] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 4.510 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:18:42:1842] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.914 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:18:42:1842] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:18:42:1842] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 8.285 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:03:193] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.141 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:03:193] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:03:193] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 2.337 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:05:195] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:05:195] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.475 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:06:196] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:06:196] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.439 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:07:197] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:07:197] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.790 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:09:199] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:09:199] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.689 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:09:199] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:09:199] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.963 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:16:1916] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:16:1916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.296 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:16:1916] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:16:1916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.160 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:19:17:1917] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:19:17:1917] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 2.479 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:23:47:2347] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 7.229 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:23:48:2348] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:48:2348] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 19.741 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:23:52:2352] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:52:2352] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 2.437 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:23:56:2356] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:56:2356] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.949 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:23:56:2356] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:56:2356] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.833 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:24:08:248] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:24:08:248] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 5.871 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:37:4237] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 1.196 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:37:4237] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:37:4237] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 16.153 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:38:4238] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:38:4238] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 2.738 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:39:4239] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:39:4239] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.762 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:40:4240] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:40:4240] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.996 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:40:4240] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:40:4240] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 2.758 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:41:4241] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:41:4241] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.694 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:45:4245] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:45:4245] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.486 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:45:4245] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:45:4245] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.431 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:42:46:4246] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:42:46:4246] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 3.596 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:50:00:500] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 1.216 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:50:00:500] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:00:500] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 11.855 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:50:03:503] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:03:503] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 2.135 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:50:09:509] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.355 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:50:09:509] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.896 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:50:11:5011] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:50:11:5011] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 8.678 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:54:15:5415] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:54:15:5415] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 48.757 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:54:15:5415] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:54:15:5415] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.305 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 19:54:23:5423] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:54:23:5423] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 5.650 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:04:42:442] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:04:42:442] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 83.363 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:04:42:442] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:04:42:442] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.455 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:04:49:449] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:04:49:449] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 6.258 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:05:15:515] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:05:15:515] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 3.689 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:05:20:520] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:05:20:520] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 3.919 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:05:23:523] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.285 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:05:23:523] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:05:23:523] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 3.762 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:05:24:524] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:05:24:524] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 2.399 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:06:33:633] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:06:33:633] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 77.871 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:06:33:633] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:06:33:633] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.244 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:06:35:635] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:06:35:635] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 6.606 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:12:06:126] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:12:06:126] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 14.275 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:12:20:1220] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:12:20:1220] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 3.863 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:12:55:1255] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:12:55:1255] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 36.972 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:13:57:1357] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:13:57:1357] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 25.793 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:15:26:1526] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:15:26:1526] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 16.053 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:16:04:164] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 753 - 19637.368 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:23:19:2319] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 753 - 3684.541 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:23:27:2327] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:23:27:2327] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 7.383 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:23:47:2347] [35mhttp[39m: [35m::1 GET /api/v1/users/google1 404 159 - 2.690 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:23:52:2352] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:23:52:2352] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 4.804 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:24:59:2459] [35mhttp[39m: [35m::1 GET /api/v1/users/google 200 24 - 9112.091 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:26:49:2649] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:26:49:2649] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 18.852 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:27:54:2754] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:27:54:2754] [35mhttp[39m: [35m::1 GET /api/v1/users/google 500 1718 - 17.331 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:40:22:4022] [35mhttp[39m: [35m::1 GET /api/v1/users/google 302 0 - 5.019 ms - PostmanRuntime/7.42.0[39m
+[20 Sep, 2024 - 20:40:52:4052] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:40:52:4052] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 26.638 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:40:52:4052] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:40:52:4052] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.153 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:40:57:4057] [35mhttp[39m: [35m::1 GET /api/v1/users/google 302 0 - 2.161 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:41:24:4124] [35mhttp[39m: [35m::1 GET /api/v1/users/google/callback?code=4%2F0AQlEd8yUF_AKayE6hg5U2SoedZxmSkhU0i3gKydwTq4VFZBarNLjUq4RlvxARORds3OUig&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&hd=thapar.edu&prompt=consent 302 499 - 919.498 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:41:24:4124] [35mhttp[39m: [35m::1 GET /api/v1/users/google/undefined?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJrdGFydW5fYmUyMUB0aGFwYXIuZWR1IiwidXNlcm5hbWUiOiJrdGFydW5fYmUyMSIsImlhdCI6MTcyNjg0NTA4NCwiZXhwIjoxNzI2OTMxNDg0fQ.Qv-7jpHef8bpL1n3zh8vQO23muptcbhFLZuEES7vOxU&refreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJrdGFydW5fYmUyMUB0aGFwYXIuZWR1IiwidXNlcm5hbWUiOiJrdGFydW5fYmUyMSIsImlhdCI6MTcyNjg0NTA4NCwiZXhwIjoxNzI3NzA5MDg0fQ.gVF0lUKtN9b4Gj7CbVkSmqdLhEo34SxojAc56sUttfc 404 168 - 11.218 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:41:44:4144] [35mhttp[39m: [35m::1 GET /api/v1/users/google/callback?code=4%2F0AQlEd8xAKSwDRELSbOXqRJuwmAHJpGCA3iSjOEfvpGYYZnWaYALWUOT95v2V_3pQVVTqEQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&hd=thapar.edu&prompt=consent 302 499 - 553.376 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:41:44:4144] [35mhttp[39m: [35m::1 GET /api/v1/users/google/undefined?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJrdGFydW5fYmUyMUB0aGFwYXIuZWR1IiwidXNlcm5hbWUiOiJrdGFydW5fYmUyMSIsImlhdCI6MTcyNjg0NTEwNCwiZXhwIjoxNzI2OTMxNTA0fQ.VV2yUX-eYy5QRse-yVgmsnSKflkOL7pwLL7JWAN6LYc&refreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJrdGFydW5fYmUyMUB0aGFwYXIuZWR1IiwidXNlcm5hbWUiOiJrdGFydW5fYmUyMSIsImlhdCI6MTcyNjg0NTEwNCwiZXhwIjoxNzI3NzA5MTA0fQ.yhLqxHxWl82WFgXMOIDvP9_4p1mCAJDVCyoKFJrccYc 404 168 - 17.603 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:06:456] [35mhttp[39m: [35m::1 GET /api/v1/users/google/callback?code=4%2F0AQlEd8xzWZMZQAobdxRi83C6nsDs7RynPDUepl8l0MiL84mtrk7KtpkJfsKfVgzLFJiSBg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&hd=thapar.edu&prompt=consent - - - - ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:07:457] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 257 - 52.776 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:07:457] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 35.837 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:09:459] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.239 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:09:459] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 11.289 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:09:459] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:09:459] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 18.569 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:11:4511] [35mhttp[39m: [35m::1 GET /api/v1/users/google 302 0 - 1.230 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:27:4527] [35mhttp[39m: [35m::1 GET /api/v1/users/google/callback?code=4%2F0AQlEd8xlnROCcP6wG2IhwpAEkCHsH74PVKG-Bx0EtAc1x8KUUaBspZfl5OmmyVt7Y0xFhg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&hd=thapar.edu&prompt=consent - - - - ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:35:4535] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:35:4535] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.659 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:35:4535] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:36:4536] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.552 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:41:4541] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.153 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 20:45:41:4541] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:41:4541] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.357 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 23:03:27:327] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:03:27:327] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 299.827 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 23:03:27:327] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:03:27:327] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.152 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 23:05:40:540] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:05:40:540] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 25.946 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 23:05:40:540] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:05:40:540] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.187 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 23:21:16:2116] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:21:16:2116] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 92.344 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[20 Sep, 2024 - 23:21:16:2116] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:21:16:2116] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.049 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 00:03:56:356] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:03:56:356] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 112.168 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 00:03:56:356] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:03:56:356] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.738 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 00:24:33:2433] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:24:33:2433] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 133.494 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 00:24:33:2433] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:24:33:2433] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.170 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 01:02:16:216] [35mhttp[39m: [35m::1 GET /api/v1/users/login 404 157 - 6.716 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:04:13:413] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 4495.119 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:07:24:724] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 3942.911 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:32:04:324] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 01:32:04:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 63.888 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 01:32:04:324] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 01:32:04:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.013 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 01:32:28:3228] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 5541.178 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:34:43:3443] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 3876.125 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:36:25:3625] [31merror[39m: [31mInvalid data[39m
+[21 Sep, 2024 - 01:36:25:3625] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/ab14fdd9d747bbe5824baea8d5628921b3b5ff30 400 1599 - 113.978 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:37:53:3753] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:37:53:3753] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/ab14fdd9d747bbe5824baea8d5628921b3b5ff30 500 1586 - 17.704 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:37:59:3759] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:37:59:3759] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/ab14fdd9d747bbe5824baea8d5628921b3b5ff30 500 1586 - 2.722 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:38:13:3813] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 5091.965 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:39:06:396] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:39:06:396] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/d0d294c4fa1cde5167b751eb0d44d5e638285e7e 500 1586 - 3.356 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:39:19:3919] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:39:19:3919] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/d0d294c4fa1cde5167b751eb0d44d5e638285e7e 500 1586 - 2.391 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:39:37:3937] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/d0d294c4fa1cde5167b751eb0d44d5e638285e7e 200 83 - 421.852 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:39:57:3957] [31merror[39m: [31mYou have previously registered using google. Please use the google login option to access your account.[39m
+[21 Sep, 2024 - 01:39:57:3957] [35mhttp[39m: [35m::1 POST /api/v1/users/login 400 515 - 15.301 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:41:39:4139] [31merror[39m: [31mYou have Logged In through OAuth Hence You cannot Avail Forget Password[39m
+[21 Sep, 2024 - 01:41:39:4139] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 404 452 - 347.480 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:42:39:4239] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 3624.357 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:43:27:4327] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/a482175d6c20bdfe77b8f007fbaa2e14617474b9 200 83 - 154.677 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 01:43:44:4344] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 136.062 ms - PostmanRuntime/7.42.0[39m

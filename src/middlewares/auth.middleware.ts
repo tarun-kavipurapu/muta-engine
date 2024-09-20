@@ -22,7 +22,7 @@ export const verifyJWT = asyncHandler(
       const decodedtoken = jwt.verify(token, ACCESS_TOKEN_SECRET);
       const user = await prismaClient.user.findUnique({
         where: {
-          id: (decodedtoken as JwtPayload)._id,
+          id: (decodedtoken as JwtPayload).id,
         },
         select: {
           id: true,

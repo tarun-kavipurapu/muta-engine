@@ -39,3 +39,102 @@
 [19 Sep, 2024 - 22:18:52:1852] [31merror[39m: [31mUnauthorized request[39m
 [19 Sep, 2024 - 22:19:27:1927] [31merror[39m: [31mUnauthorized request[39m
 [19 Sep, 2024 - 22:20:15:2015] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 14:29:38:2938] [31merror[39m: [31mNot allowed by CORS[39m
+[20 Sep, 2024 - 14:31:08:318] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 15:26:56:2656] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:01:27:127] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:27:127] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:32:132] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:01:32:132] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:02:04:24] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:03:12:312] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:03:30:330] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:03:30:330] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:05:26:526] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:06:54:654] [31merror[39m: [31mDatabase Error[39m
+[20 Sep, 2024 - 16:14:27:1427] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:24:03:243] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:25:20:2520] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 16:25:20:2520] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:04:54:454] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:04:54:454] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:04:57:457] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:10:45:1045] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:10:45:1045] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:10:47:1047] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:18:42:1842] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:03:193] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:05:195] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:06:196] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:07:197] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:09:199] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:09:199] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:16:1916] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:16:1916] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:19:17:1917] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:23:48:2348] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:52:2352] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:56:2356] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:23:56:2356] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:24:08:248] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:42:37:4237] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:38:4238] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:39:4239] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:40:4240] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:40:4240] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:41:4241] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:45:4245] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:45:4245] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:42:46:4246] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:50:00:500] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:03:503] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:09:509] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:09:509] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:50:11:5011] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 19:54:15:5415] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:54:15:5415] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 19:54:23:5423] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:04:42:442] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:04:42:442] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:04:49:449] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:05:15:515] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:05:20:520] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:05:23:523] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:05:24:524] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:06:33:633] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:06:33:633] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:06:35:635] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:12:06:126] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:12:20:1220] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:12:55:1255] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:13:57:1357] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:15:26:1526] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:23:27:2327] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:23:52:2352] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:26:49:2649] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:27:54:2754] [31merror[39m: [31mUnknown authentication strategy "google"[39m
+[20 Sep, 2024 - 20:40:52:4052] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:40:52:4052] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:09:459] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:35:4535] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:35:4535] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 20:45:41:4541] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:03:27:327] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:03:27:327] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:05:40:540] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:05:40:540] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:21:16:2116] [31merror[39m: [31mUnauthorized request[39m
+[20 Sep, 2024 - 23:21:16:2116] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:03:56:356] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:03:56:356] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:24:33:2433] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 00:24:33:2433] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 01:32:04:324] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 01:32:04:324] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 01:36:25:3625] [31merror[39m: [31mInvalid data[39m
+[21 Sep, 2024 - 01:37:53:3753] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:37:59:3759] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:39:06:396] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:39:19:3919] [31merror[39m: [31mInternal Server Error[39m
+[21 Sep, 2024 - 01:39:57:3957] [31merror[39m: [31mYou have previously registered using google. Please use the google login option to access your account.[39m
+[21 Sep, 2024 - 01:41:39:4139] [31merror[39m: [31mYou have Logged In through OAuth Hence You cannot Avail Forget Password[39m
