@@ -106,7 +106,7 @@ model EcomOrder {
 
   orderPrice      Float
   paymentProvider String
-  paymentId       String?
+  paymentId       String? @unique
   isPaymentDone   Boolean @default(false)
 
   createdAt DateTime @default(now())
@@ -122,4 +122,13 @@ model OrderItem {
   product   Product @relation(fields: [productId], references: [id])
 
   quantity Int @default(1)
+}
+
+model ApiUsageLog {
+  id        Int      @id @default(autoincrement())
+  method    String
+  endpoint  String
+  timestamp DateTime @default(now())
+  userId    Int? // If tracking user-based API usage
+  ipAddress String
 }

@@ -344,3 +344,1082 @@
 [21 Sep, 2024 - 11:28:27:2827] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 29.483 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
 [21 Sep, 2024 - 11:28:27:2827] [31merror[39m: [31mUnauthorized request[39m
 [21 Sep, 2024 - 11:28:27:2827] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.786 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:08:32:832] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:08:32:832] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 172.480 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:08:32:832] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:08:32:832] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.116 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:10:59:1059] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:10:59:1059] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 35.773 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:10:59:1059] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:10:59:1059] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.878 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:12:58:1258] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:12:59:1259] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 51.022 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:16:57:1657] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:16:57:1657] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 48.033 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:16:57:1657] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:16:57:1657] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.432 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:25:27:2527] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:25:27:2527] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 18.768 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:25:27:2527] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:25:27:2527] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.661 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:33:23:3323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:33:23:3323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.977 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:33:23:3323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:33:23:3323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.115 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:35:42:3542] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:35:42:3542] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.914 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:35:42:3542] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:35:42:3542] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.459 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:36:00:360] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:36:00:360] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.762 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:36:00:360] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:36:00:360] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.520 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:36:40:3640] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:36:40:3640] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 17.511 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:36:44:3644] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:36:44:3644] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.627 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:36:44:3644] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:36:44:3644] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 12.712 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:37:10:3710] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:37:10:3710] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.614 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:37:15:3715] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:37:15:3715] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.169 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:37:15:3715] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:37:15:3715] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.486 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:49:43:4943] [35mhttp[39m: [35m::1 GET /api/v1+%22/products%22 404 161 - 44.551 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:49:43:4943] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:49:43:4943] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 96.230 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:49:44:4944] [35mhttp[39m: [35m::1 GET /api/v1+%22/products%22 404 161 - 4.377 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:49:44:4944] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:49:44:4944] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.820 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 16:50:40:5040] [35mhttp[39m: [35m::1 GET /api/v1%22/products%22 404 160 - 10.284 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:40:5040] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:50:40:5040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 11.015 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:40:5040] [35mhttp[39m: [35m::1 GET /api/v1%22/products%22 404 160 - 6.914 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:40:5040] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:50:40:5040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 35.428 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:54:5054] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:50:54:5054] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.409 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:54:5054] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:50:54:5054] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.138 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:54:5054] [35mhttp[39m: [35m::1 GET /api/v1/products 200 6153 - 373.947 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:50:54:5054] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 22.209 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:51:38:5138] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:51:38:5138] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.181 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:51:38:5138] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:51:38:5138] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.662 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:51:38:5138] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 57.669 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:51:39:5139] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 125.044 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:52:47:5247] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:52:47:5247] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 14.595 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:52:47:5247] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:52:47:5247] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.238 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:52:48:5248] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 178.227 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:52:48:5248] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 37.473 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:56:01:561] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:56:01:561] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.056 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:56:01:561] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:56:01:561] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.347 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:56:01:561] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 184.999 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:56:01:561] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 30.060 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:57:53:5753] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:57:53:5753] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 9.588 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:57:53:5753] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:57:53:5753] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.687 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:57:53:5753] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 139.555 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:57:53:5753] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 80.991 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:58:25:5825] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:58:25:5825] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.400 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:58:25:5825] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 16:58:25:5825] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.132 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:58:25:5825] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 56.929 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 16:58:25:5825] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 189.365 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:04:13:413] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:04:13:413] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 56.900 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:04:13:413] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:04:13:413] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.625 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:04:13:413] [35mhttp[39m: [35m::1 GET /api/v1/products 200 4351 - 359.814 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:04:13:413] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 23.838 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:05:48:548] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:05:48:548] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 31.380 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:05:48:548] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:05:48:548] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.290 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:05:48:548] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 233.439 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:05:48:548] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 17.039 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:18:618] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:06:18:618] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 19.889 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:18:618] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:06:18:618] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.811 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:18:618] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 37.629 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:18:618] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 44.851 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:29:629] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:06:29:629] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.475 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:29:629] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:06:29:629] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.371 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:29:629] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 85.135 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:29:629] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 80.638 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:06:31:631] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 22.681 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:09:129] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:12:09:129] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 29.339 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:09:129] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:12:09:129] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 12.522 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:09:129] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 486.651 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:10:1210] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 120.611 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:17:1217] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:12:17:1217] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.874 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:17:1217] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:12:17:1217] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.797 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:18:1218] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 32.849 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:18:1218] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.816 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:57:1257] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:12:57:1257] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.430 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:57:1257] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:12:57:1257] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 37.467 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:57:1257] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 100.302 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:12:57:1257] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 22.867 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:13:24:1324] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 14.579 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:13:54:1354] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.378 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:14:28:1428] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 46.458 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:14:32:1432] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 18.755 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:14:42:1442] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 16.291 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:16:41:1641] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:16:41:1641] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 34.517 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:16:41:1641] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:16:41:1641] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.433 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:16:41:1641] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 576.402 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:16:41:1641] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 39.598 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:16:55:1655] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 41.425 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:14:1714] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 21.638 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:33:1733] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:17:33:1733] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.534 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:33:1733] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:17:33:1733] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.794 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:33:1733] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 39.519 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:33:1733] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 39.117 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:37:1737] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:17:37:1737] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.008 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:37:1737] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:17:37:1737] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.583 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:37:1737] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 43.772 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:17:37:1737] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 47.465 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:18:11:1811] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 42.341 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:18:11:1811] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 35.820 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:20:55:2055] [35mhttp[39m: [35m::1 GET /api/v1/users/google 302 0 - 36.769 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:03:213] [31merror[39m: [31mYou have previously registered using email password. Please use the same login option.[39m
+[21 Sep, 2024 - 17:21:03:213] [35mhttp[39m: [35m::1 GET /api/v1/users/google/callback?code=4%2F0AQlEd8wop0PqIjZ_hX-AU6yvzX2jdbILwyYChvdmX6b_Meqog9pAi0F0GhwMmx-lOTpoMQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent 500 453 - 750.371 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:03:213] [35mhttp[39m: [35m::1 GET /favicon.ico 404 150 - 7.991 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:33:2133] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:21:33:2133] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 12.743 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:33:2133] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:21:33:2133] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.302 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:35:2135] [35mhttp[39m: [35m::1 GET /api/v1/users/google 302 0 - 0.700 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:47:2147] [35mhttp[39m: [35m::1 GET /api/v1/users/google/callback?code=4%2F0AQlEd8zHEmcmlqDGZpatH1D9I_7KLGDDCGBxMw8wFUtQFSDLvmkD1_pjG2NyN45mdnFjOA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&hd=thapar.edu&prompt=consent 302 570 - 686.690 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:21:47:2147] [35mhttp[39m: [35m::1 GET /api/v1/users/google/%22%22//here%20type%20the%20frontend%20url%20where%20you%20want%20to%20redirectw?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJrdGFydW5fYmUyMUB0aGFwYXIuZWR1IiwidXNlcm5hbWUiOiJrdGFydW5fYmUyMSIsImlhdCI6MTcyNjkxOTUwNywiZXhwIjoxNzI3MDA1OTA3fQ.1hcUYI0ZxnOOYCIE3KfjqAqQtq2Ylg8zavnfY4pnYXg&refreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJrdGFydW5fYmUyMUB0aGFwYXIuZWR1IiwidXNlcm5hbWUiOiJrdGFydW5fYmUyMSIsImlhdCI6MTcyNjkxOTUwNywiZXhwIjoxNzI3NzgzNTA3fQ.xFlIVtKE94OA2uQUx0UEtqWs6J88rW2cAt6N8TIaTZk 404 239 - 14.943 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:13:2213] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 257 - 70.849 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:29:2229] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 35.344 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:29:2229] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 45.502 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:30:2230] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 194.629 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:30:2230] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 42.472 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:34:2234] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.429 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:34:2234] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 32.641 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:34:2234] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 34.837 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:34:2234] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.087 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:37:2237] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.669 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:37:2237] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 23.647 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:40:2240] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 16.722 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:40:2240] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 16.840 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:42:2242] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 12.777 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:42:2242] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.921 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:43:2243] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.418 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:43:2243] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.171 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 13.024 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 18.967 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 15.514 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.683 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 14.342 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.549 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 16.785 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 22.639 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:44:2244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 15.828 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:45:2245] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 21.390 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:22:53:2253] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 22.565 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:53:2253] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 27.015 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:55:2255] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.902 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:55:2255] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 33.486 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:56:2256] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.220 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:56:2256] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.445 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:57:2257] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.151 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:22:57:2257] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 23.018 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:23:06:236] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 14.745 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:23:06:236] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 23.830 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:23:06:236] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 13.316 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:23:06:236] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.510 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:23:24:2324] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 12.447 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:23:24:2324] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 23.713 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:23:28:2328] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 16.051 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:23:28:2328] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 21.889 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:24:04:244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 191.814 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:24:04:244] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 22.834 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:24:07:247] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 13.211 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:24:07:247] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.908 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:24:08:248] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 14.080 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:24:08:248] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.109 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:24:41:2441] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 66.830 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:24:48:2448] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.166 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:24:48:2448] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 30.245 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:24:50:2450] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.950 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:24:50:2450] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 26.327 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:25:15:2515] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 23.121 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:25:15:2515] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.103 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 17:25:58:2558] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:25:58:2558] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 47.529 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:25:58:2558] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:25:58:2558] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.809 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:02:262] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 29.320 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:02:262] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 29.560 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:11:2611] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 12.179 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:14:2614] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:26:14:2614] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 11.173 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:14:2614] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:26:14:2614] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.481 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:14:2614] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 39.337 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:14:2614] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 34.551 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:19:2619] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 19.884 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:19:2619] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.283 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:24:2624] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:26:24:2624] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.252 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:24:2624] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:26:24:2624] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.913 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:24:2624] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 71.702 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:26:24:2624] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 35.709 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:27:28:2728] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.163 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:27:28:2728] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[21 Sep, 2024 - 17:27:28:2728] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 397 - 134.611 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:15:2815] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 1.956 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:15:2815] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 211.563 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:16:2816] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 232.005 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:16:2816] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 85.566 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:25:2825] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 21.896 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:25:2825] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 28.988 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:27:2827] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 15.015 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:28:27:2827] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 24.204 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:36:57:3657] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 9.735 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:36:58:3658] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 585.822 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:36:58:3658] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 98.989 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:36:58:3658] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 43.224 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:37:59:3759] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 207.858 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:38:00:380] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 381.642 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:38:07:387] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 1.434 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:38:07:387] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:38:07:387] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 77.981 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:39:09:399] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 1.249 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:39:09:399] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:39:09:399] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 25.963 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:16:5016] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 515.677 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:16:5016] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 77.217 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:18:5018] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.681 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:18:5018] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:50:18:5018] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 10.124 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:20:5020] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:50:20:5020] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 3.281 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:24:5024] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:50:24:5024] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.326 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:50:24:5024] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:50:24:5024] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.163 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:35:5135] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:51:35:5135] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.914 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:35:5135] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:51:35:5135] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 1.449 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:36:5136] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:51:36:5136] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.337 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:48:5148] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:51:48:5148] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.168 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:58:5158] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:51:58:5158] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.971 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:58:5158] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:51:58:5158] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.803 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:58:5158] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 198.391 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:51:58:5158] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 15.494 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:00:520] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 15.279 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:00:520] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 21.018 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:04:524] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.613 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:04:524] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:52:04:524] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.447 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:05:525] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:52:05:525] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.305 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:07:527] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:52:07:527] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.442 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:07:527] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:52:08:528] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.479 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:08:528] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 73.904 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:52:08:528] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 36.938 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:09:539] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:53:09:539] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 11.545 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:09:539] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:53:09:539] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.768 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:09:539] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 47.727 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:09:539] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 18.293 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:44:5344] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:53:44:5344] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.814 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:44:5344] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:53:44:5344] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.039 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:44:5344] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 44.661 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:44:5344] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 100.166 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:49:5349] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:53:49:5349] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.506 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:49:5349] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:53:49:5349] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 11.616 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:49:5349] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 52.458 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:53:50:5350] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 23.831 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:54:31:5431] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:54:31:5431] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.709 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:54:31:5431] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:54:31:5431] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.828 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:54:31:5431] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 52.067 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:54:31:5431] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 80.670 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:29:5529] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:55:29:5529] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 18.605 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:29:5529] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:55:29:5529] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 15.222 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:29:5529] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 526.746 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:29:5529] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 30.748 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:52:5552] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:55:52:5552] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.778 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:52:5552] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:55:52:5552] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.296 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:52:5552] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 84.797 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:55:52:5552] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 162.925 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:05:565] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:56:05:565] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 11.427 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:05:565] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:56:05:565] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 12.598 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:06:566] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 250.538 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:06:566] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 44.766 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:16:5616] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:56:16:5616] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.223 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:16:5616] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:56:16:5616] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.421 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:16:5616] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 33.304 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:56:16:5616] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 119.805 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:54:5754] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:57:54:5754] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 74.806 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:54:5754] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:57:54:5754] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.560 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:54:5754] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 211.688 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:54:5754] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 150.369 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:58:5758] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:57:58:5758] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.762 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:58:5758] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:57:58:5758] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.812 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:58:5758] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 101.610 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:57:58:5758] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 94.531 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:00:580] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:00:580] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.879 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:01:581] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:01:581] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.371 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:01:581] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 46.675 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:01:581] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 31.820 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:41:5841] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:41:5841] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 19.131 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:41:5841] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:41:5841] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 16.142 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:42:5842] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 183.158 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:42:5842] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 50.270 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:45:5845] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:45:5845] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.363 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:45:5845] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:45:5845] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.674 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:51:5851] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:51:5851] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.067 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:51:5851] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:51:5851] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.938 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:51:5851] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 32.584 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:51:5851] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 31.111 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:53:5853] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:53:5853] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.150 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:53:5853] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:53:5853] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.006 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:57:5857] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:57:5857] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.561 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:58:57:5857] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:58:57:5857] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.605 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:15:5915] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:59:15:5915] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.279 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:15:5915] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:59:15:5915] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.209 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:15:5915] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:59:15:5915] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.117 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:15:5915] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:59:15:5915] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.609 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:16:5916] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.874 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:16:5916] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 17:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 9.159 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:19:5919] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.698 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:19:5919] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[21 Sep, 2024 - 17:59:19:5919] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 397 - 203.979 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:29:5929] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.164 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:29:5929] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 177.881 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:29:5929] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 32.486 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 17:59:29:5929] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 41.559 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:02:02] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.202 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:02:02] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 20.227 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:10:010] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.144 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:10:010] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:10:010] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.812 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:14:014] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:14:014] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.571 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:14:014] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:14:014] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.990 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:14:014] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:14:014] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.460 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:14:014] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:14:014] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.496 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:14:014] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:15:015] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.565 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:00:15:015] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:00:15:015] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 7.794 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:22:122] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:01:22:122] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 4.230 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:25:125] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 6.332 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:26:126] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[21 Sep, 2024 - 18:01:26:126] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 397 - 401.744 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:29:129] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 118.874 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:29:129] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 55.024 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:29:129] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 26.999 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:31:131] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.155 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:31:131] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 6.274 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:01:34:134] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:01:34:134] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.549 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:23:323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:23:323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 78.339 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:23:323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:23:323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 41.005 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:23:323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:23:323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.947 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:23:323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:23:323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.732 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:23:323] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:23:323] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 1.798 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:24:324] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:24:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 2.959 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:25:325] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.405 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:25:325] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[21 Sep, 2024 - 18:03:25:325] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 397 - 130.355 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:33:333] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.175 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:33:333] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 101.638 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:33:333] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 41.145 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:33:333] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 31.027 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:34:334] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.089 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:34:334] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 4.989 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:35:335] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:35:335] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 3.374 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:36:336] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:36:336] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.401 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:36:336] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:36:336] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.402 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 18:03:38:338] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 18:03:38:338] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 401 1110 - 1.334 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 21:29:26:2926] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 844.666 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:29:38:2938] [35mhttp[39m: [35m::1 POST /api/v1/item/1 404 153 - 1.941 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:30:54:3054] [35mhttp[39m: [35m::1 POST /api/v1/item/1 404 153 - 4.474 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:31:04:314] [31merror[39m: [31mCart not found[39m
+[21 Sep, 2024 - 21:31:04:314] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 404 337 - 144.516 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:40:03:403] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 200 614 - 621.400 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:40:14:4014] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/2 200 1035 - 52.880 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:40:19:4019] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/3 200 1439 - 54.221 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:40:22:4022] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/4 200 1845 - 36.965 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 21:43:35:4335] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 24028.044 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:07:44:744] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 451.975 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:08:00:80] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 18.944 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:08:02:82] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 8.474 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:08:05:85] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 11.319 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:08:08:88] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 9.245 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:08:33:833] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 22:08:33:833] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 106.674 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 22:08:33:833] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 22:08:33:833] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.503 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 22:08:33:833] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 22:08:33:833] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.250 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 22:08:33:833] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 22:08:33:833] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.076 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 22:09:11:911] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 233.471 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:09:14:914] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 15.627 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:09:16:916] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 23.253 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:09:17:917] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 7.678 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:32:35:3235] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 169.485 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:32:38:3238] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 5.201 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:32:40:3240] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 5.293 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:32:41:3241] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 4.681 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:32:43:3243] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 3.456 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:32:46:3246] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 4.524 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:13:4413] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 248.829 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:15:4415] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 4.407 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:16:4416] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 4.896 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:17:4417] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 3.858 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:18:4418] [35mhttp[39m: [35m::1 GET /api/v1/products/ 200 4351 - 4.749 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:19:4419] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:19:4419] [35mhttp[39m: [35m::1 GET /api/v1/products/ 429 726 - 2.387 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:21:4421] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:21:4421] [35mhttp[39m: [35m::1 GET /api/v1/products/ 429 726 - 2.314 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:43:4443] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:43:4443] [35mhttp[39m: [35m::1 GET / 429 726 - 1.498 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:44:4444] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:44:4444] [35mhttp[39m: [35m::1 GET / 429 726 - 2.522 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:44:4444] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:44:4444] [35mhttp[39m: [35m::1 GET / 429 726 - 2.297 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:46:4446] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:46:4446] [35mhttp[39m: [35m::1 GET / 429 726 - 1.816 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:44:47:4447] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:44:47:4447] [35mhttp[39m: [35m::1 GET / 429 726 - 1.555 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:02:452] [35mhttp[39m: [35m::1 GET / 200 13 - 5.910 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:03:453] [35mhttp[39m: [35m::1 GET / 200 13 - 1.238 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:04:454] [35mhttp[39m: [35m::1 GET / 200 13 - 0.710 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:05:455] [35mhttp[39m: [35m::1 GET / 200 13 - 0.756 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:06:456] [35mhttp[39m: [35m::1 GET / 200 13 - 0.855 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:07:457] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:45:07:457] [35mhttp[39m: [35m::1 GET / 429 726 - 2.486 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:45:08:458] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[21 Sep, 2024 - 22:45:08:458] [35mhttp[39m: [35m::1 GET / 429 726 - 1.714 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:57:20:5720] [35mhttp[39m: [35m::1 GET / 200 13 - 140.620 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 22:58:08:588] [35mhttp[39m: [35m::1 GET /api/v1/product/test 404 158 - 108.702 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 23:02:55:255] [35mhttp[39m: [35m::1 GET /api/v1/product/test 404 158 - 195.551 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 23:03:16:316] [35mhttp[39m: [35m::1 GET /api/v1/product/test 404 158 - 33.071 ms - PostmanRuntime/7.42.0[39m
+[22 Sep, 2024 - 00:03:24:324] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:03:24:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 230.923 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:03:24:324] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:03:24:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 11.443 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:03:24:324] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:03:24:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.620 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:03:24:324] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:03:24:324] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.545 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:06:34:634] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:06:34:634] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 176.216 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:06:34:634] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:06:34:634] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 23.548 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:06:34:634] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:06:34:634] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.242 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:06:34:634] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:06:34:634] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 9.070 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:07:45:745] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:07:45:745] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 118.179 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:07:45:745] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:07:45:745] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 39.185 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:07:45:745] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:07:45:745] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 9.024 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:07:45:745] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:07:45:745] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 13.944 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:11:02:112] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:11:02:112] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 109.240 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:11:02:112] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:11:02:112] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.675 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:11:02:112] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:11:02:112] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.266 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:11:02:112] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:11:02:112] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.517 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:14:28:1428] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:14:28:1428] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 285.483 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:14:28:1428] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:14:28:1428] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 24.879 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:14:28:1428] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:14:28:1428] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 21.792 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:14:28:1428] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:14:28:1428] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 33.029 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:15:17:1517] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:15:17:1517] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 101.272 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:15:17:1517] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:15:17:1517] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 46.214 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:15:17:1517] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:15:17:1517] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 20.771 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:15:17:1517] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:15:17:1517] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 21.015 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 129.576 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 12.864 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.361 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.098 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 9.979 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.061 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 14.743 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:35:1635] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:35:1635] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.627 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:42:1642] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:42:1642] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 16.945 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:42:1642] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:42:1642] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 22.180 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:42:1642] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:42:1642] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 14.181 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:16:42:1642] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:16:42:1642] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 12.587 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:21:37:2137] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:21:37:2137] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 121.940 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:21:37:2137] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:21:37:2137] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.502 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:21:37:2137] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:21:37:2137] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 6.544 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:21:37:2137] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:21:37:2137] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 6.853 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:21:59:2159] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:21:59:2159] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 36.682 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:22:00:220] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:22:00:220] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 17.499 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:22:00:220] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:22:00:220] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 20.198 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:22:00:220] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:22:00:220] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 16.873 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:03:303] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 869.444 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 123.667 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 22.955 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 22.704 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 15.638 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 19.538 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.777 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:04:304] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:04:304] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 23.006 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:36:3036] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:36:3036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 20.698 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:36:3036] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:36:3036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.425 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:36:3036] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:36:3036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 12.335 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:30:36:3036] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:30:36:3036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 18.660 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:31:44:3144] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 8.063 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:31:44:3144] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:31:44:3144] [35mhttp[39m: [35m::1 POST /api/v1/users/login 429 651 - 47.440 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:32:16:3216] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.180 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:32:16:3216] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:32:16:3216] [35mhttp[39m: [35m::1 POST /api/v1/users/login 429 651 - 9.590 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:33:08:338] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.353 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:33:09:339] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[22 Sep, 2024 - 00:33:09:339] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 398 - 817.017 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:14:3814] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:38:14:3814] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 445.576 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:14:3814] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:38:14:3814] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.065 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:14:3814] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:38:14:3814] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 401 1110 - 17.240 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:14:3814] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 00:38:14:3814] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 401 1110 - 33.990 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:26:3826] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.341 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:26:3826] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 648.042 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:27:3827] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 192.202 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:38:27:3827] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 45.825 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 271 - 178.157 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 25.794 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 38.415 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 11.674 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 79.071 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 32.592 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 5.720 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:23:3923] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:23:3923] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 5.868 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:26:3926] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.257 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:26:3926] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:26:3926] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 6.782 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:27:3927] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:27:3927] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 6.010 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:29:3929] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:29:3929] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 4.996 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:29:3929] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:29:3929] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 4.333 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:29:3929] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:29:3929] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 5.168 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:29:3929] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:29:3929] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 4.837 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:31:3931] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:31:3931] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.989 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:31:3931] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:31:3931] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 13.812 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:31:3931] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:31:3931] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.710 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:31:3931] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:31:3931] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.272 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:31:3931] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:31:3931] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 14.296 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:31:3931] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:39:31:3931] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 28.647 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:47:3947] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.015 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:39:47:3947] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[22 Sep, 2024 - 00:39:47:3947] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 398 - 582.350 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:00:400] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.183 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:00:400] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 596.913 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:00:400] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 50.037 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:00:400] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 9.699 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:33:4033] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 271 - 18.175 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:33:4033] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:33:4033] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 5.305 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:33:4033] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:33:4033] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.089 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:33:4033] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:33:4033] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 12.257 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:33:4033] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:33:4033] [35mhttp[39m: [35m::1 GET /api/v1/products 429 651 - 6.683 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:33:4033] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:33:4033] [35mhttp[39m: [35m::1 GET /api/v1/products 429 651 - 10.527 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:38:4038] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 0.177 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:38:4038] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:38:4038] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 429 651 - 6.398 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:40:4040] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:40:4040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.975 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:40:4040] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:40:4040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 8.460 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:40:4040] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:40:4040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.087 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:40:4040] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:40:4040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 6.422 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:40:4040] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:40:4040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.109 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:40:40:4040] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:40:40:4040] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 11.410 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 271 - 304.422 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 113.451 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/products 200 4351 - 67.570 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 17.719 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:50:09:509] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 00:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 18.196 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 00:50:09:509] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 27.010 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:10:1010] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 271 - 907.899 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:10:1010] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 50.463 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:10:1010] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.416 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:10:1010] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.738 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:10:1010] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:10:10:1010] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.055 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:10:1010] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:10:10:1010] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.743 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:11:1011] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 122.823 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:11:1011] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:10:11:1011] [35mhttp[39m: [35m::1 GET /api/v1/products 429 651 - 10.748 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:35:1035] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 200 271 - 282.308 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:35:1035] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 304 - - 50.234 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:35:1035] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/products 200 4351 - 87.965 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:35:1035] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 25.296 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:38:1038] [35mhttp[39m: [35m::1 OPTIONS /api/v1/cart/item/1 204 0 - 0.396 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:10:38:1038] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:10:38:1038] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 401 1100 - 15.052 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:45:1845] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 340.003 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 195.305 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 40.927 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 79.114 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/products 429 651 - 13.695 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 83.139 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 9.293 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:18:46:1846] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:18:46:1846] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.801 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:06:196] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 200 271 - 371.333 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:06:196] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 1.228 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:06:196] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 304 - - 52.654 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:06:196] [35mhttp[39m: [35m::1 GET /api/v1/products 200 4351 - 172.360 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:06:196] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 12.217 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:07:197] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[22 Sep, 2024 - 01:19:07:197] [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 409 398 - 632.713 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:08:198] [35mhttp[39m: [35m::1 OPTIONS /api/v1/cart/item/1 204 0 - 0.300 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:08:198] [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/cart/item/1 200 1845 - 56.511 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:10:1910] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 200 1845 - 15.978 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:12:1912] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 200 1845 - 13.015 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:20:1920] [35mhttp[39m: [35m::1 OPTIONS /api/v1/cart/item/2 204 0 - 0.173 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:20:1920] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/2 200 1845 - 17.348 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:19:21:1921] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:19:21:1921] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/2 429 651 - 7.387 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:48:2248] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:48:2248] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 411.799 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:48:2248] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:48:2248] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 21.950 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:49:2249] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:49:2249] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 426.902 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:49:2249] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:49:2249] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 14.324 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:49:2249] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:49:2249] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.915 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:49:2249] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:49:2249] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 429 651 - 10.440 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:49:2249] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 12.356 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:22:49:2249] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:22:49:2249] [35mhttp[39m: [35m::1 POST /api/v1/users/login 429 651 - 16.986 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:23:16:2316] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 200 271 - 365.255 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:23:16:2316] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.058 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:23:16:2316] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 28.029 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:23:16:2316] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 52.446 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:23:16:2316] [31merror[39m: [31mThere are too many requests. You are only allowed 5 requests per 10 minutes[39m
+[22 Sep, 2024 - 01:23:16:2316] [35mhttp[39m: [35m::1 GET /api/v1/products 429 651 - 10.012 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:23:16:2316] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 93.104 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:25:37:2537] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 6.160 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:25:38:2538] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[22 Sep, 2024 - 01:25:38:2538] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 398 - 874.689 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:25:56:2556] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.108 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:25:57:2557] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 672.409 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:25:58:2558] [35mhttp[39m: [35m::1 GET /api/v1/products 200 4351 - 74.197 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:25:58:2558] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/products 304 - - 17.691 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:01:261] [35mhttp[39m: [35m::ffff:127.0.0.1 OPTIONS /api/v1/cart/item/1 204 0 - 0.234 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:01:261] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 200 1845 - 62.277 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:07:267] [35mhttp[39m: [35m::1 OPTIONS /api/v1/cart/item/1 204 0 - 0.170 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:07:267] [35mhttp[39m: [35m::1 POST /api/v1/cart/item/1 200 1845 - 17.203 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 66.786 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.946 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 53.449 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 13.667 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.156 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.544 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 114.794 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:52:2652] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 8.971 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:54:2654] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/logout 204 0 - 1.815 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:54:2654] [35mhttp[39m: [35m::1 POST /api/v1/users/logout 200 79 - 55.384 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:56:2656] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:26:56:2656] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 63.692 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:56:2656] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:26:56:2656] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.420 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:56:2656] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:26:56:2656] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 5.773 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:56:2656] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:26:56:2656] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 6.570 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:56:2656] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:26:56:2656] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.444 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:26:56:2656] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:26:56:2656] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.992 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:31:09:319] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:31:09:319] [35mhttp[39m: [35m::1 GET /api/v1/cart 401 1100 - 151.878 ms - PostmanRuntime/7.42.0[39m
+[22 Sep, 2024 - 01:31:16:3116] [31merror[39m: [31mreCAPTCHA verification failed[39m
+[22 Sep, 2024 - 01:31:16:3116] [35mhttp[39m: [35m::1 POST /api/v1/users/login 404 442 - 621.244 ms - PostmanRuntime/7.42.0[39m
+[22 Sep, 2024 - 01:32:55:3255] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:55:3255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 172.909 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:55:3255] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:55:3255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 18.720 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:55:3255] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:55:3255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 19.655 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:55:3255] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:55:3255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 18.359 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:55:3255] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:55:3255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.044 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:55:3255] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:55:3255] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.109 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:57:3257] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:57:3257] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.478 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:57:3257] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:57:3257] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 13.699 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:57:3257] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:57:3257] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 8.895 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:32:57:3257] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:32:57:3257] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 14.108 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:36:10:3610] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 258.466 ms - PostmanRuntime/7.42.0[39m
+[22 Sep, 2024 - 01:36:17:3617] [35mhttp[39m: [35m::1 GET /api/v1/cart 200 1847 - 38.020 ms - PostmanRuntime/7.42.0[39m
+[22 Sep, 2024 - 01:36:34:3634] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.319 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:36:34:3634] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[22 Sep, 2024 - 01:36:34:3634] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 398 - 84.815 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:36:39:3639] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:36:39:3639] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 22.986 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:36:39:3639] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:36:39:3639] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 13.739 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:37:12:3712] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 2021.186 ms - PostmanRuntime/7.42.0[39m
+[22 Sep, 2024 - 01:49:03:493] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:03:493] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:03:493] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 247.336 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:03:493] [35mhttp[39m: [35m::1 GET /api/v1/cart 401 1100 - 289.499 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:03:493] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:03:493] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:03:493] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 19.339 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:03:493] [35mhttp[39m: [35m::1 GET /api/v1/cart 401 1100 - 21.322 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:04:494] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:04:494] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 28.962 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:04:494] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:04:494] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 22.143 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:04:494] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:04:494] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 18.516 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:04:494] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:04:494] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 16.830 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:10:4910] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:10:4910] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 20.905 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:10:4910] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:10:4910] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 19.246 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:10:4910] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:10:4910] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 23.421 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:10:4910] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:49:10:4910] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 17.556 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:13:4913] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 3.050 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:14:4914] [31merror[39m: [31mThe password/email you have entered is wrong[39m
+[22 Sep, 2024 - 01:49:14:4914] [35mhttp[39m: [35m::1 POST /api/v1/users/login 409 398 - 122.009 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:41:4941] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 1.141 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:42:4942] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 741.420 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:42:4942] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 56.737 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:42:4942] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 17.777 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 28.400 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 29.888 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 19.603 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 28.725 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 23.973 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 19.845 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 81.128 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:48:4948] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 17.482 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 23.232 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 10.315 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 24.328 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 20.373 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 14.358 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 22.558 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 12.788 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:49:53:4953] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 15.054 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.941 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 12.788 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 16.819 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 19.183 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 20.438 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 30.232 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 7.652 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:04:504] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 13.724 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:29:5029] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.796 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 13.164 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 16.110 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 23.263 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 23.098 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 16.397 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 8.840 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:30:5030] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 15.240 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 26.892 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 16.194 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.078 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 36.375 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 13.171 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 47.809 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 9.616 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:53:5053] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 14.915 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:59:5059] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 21.130 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:59:5059] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 18.056 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:59:5059] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 17.478 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:59:5059] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 17.142 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:59:5059] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 11.111 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:50:59:5059] [35mhttp[39m: [35m::1 GET /api/v1/products 304 - - 13.249 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:52:18:5218] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:52:18:5218] [35mhttp[39m: [35m::1 GET /api/v1/cart 401 1100 - 247.284 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:52:18:5218] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:52:18:5218] [35mhttp[39m: [35m::1 GET /api/v1/cart 401 1100 - 23.144 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:52:50:5250] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:52:50:5250] [35mhttp[39m: [35m::1 GET /api/v1/cart 401 1100 - 18.631 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:53:46:5346] [35mhttp[39m: [35m::1 GET /api/v1/cart 200 1847 - 544.223 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:54:03:543] [35mhttp[39m: [35m::1 OPTIONS /api/v1/create-order 204 0 - 3.441 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:54:03:543] [35mhttp[39m: [35m::1 POST /api/v1/create-order 404 159 - 37.137 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:54:56:5456] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 68.071 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:55:14:5514] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 62.718 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:55:30:5530] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 17.983 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:55:57:5557] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 40.919 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:56:30:5630] [35mhttp[39m: [35m::1 POST /api/v1/provider/razorpay 404 164 - 30.705 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:10:5910] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 391.480 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:12:5912] [35mhttp[39m: [35m::1 OPTIONS /api/v1/provider/razorpay 204 0 - 2.154 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:12:5912] [35mhttp[39m: [35m::1 POST /api/v1/provider/razorpay 404 164 - 18.483 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 118.860 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 27.747 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 39.098 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 28.210 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 27.537 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:16:5916] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 41.689 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:17:5917] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 533.346 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:17:5917] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 18.373 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:20:5920] [35mhttp[39m: [35m::1 OPTIONS /api/v1/provider/razorpay 204 0 - 0.447 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:20:5920] [35mhttp[39m: [35m::1 POST /api/v1/provider/razorpay 404 164 - 7.481 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:21:5921] [35mhttp[39m: [35m::1 POST /api/v1/provider/razorpay 404 164 - 6.117 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:33:5933] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 25.083 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:34:5934] [35mhttp[39m: [35m::1 OPTIONS /api/v1/order/provider/razorpay 204 0 - 0.138 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:34:5934] [35mhttp[39m: [35m::1 POST /api/v1/order/provider/razorpay 404 170 - 6.048 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:48:5948] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 47.392 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:50:5950] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.879 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 01:59:50:5950] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 01:59:50:5950] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 58.620 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:00:52:052] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.181 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:00:52:052] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:00:52:052] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 24.822 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:51:551] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 304 - - 349.851 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:51:551] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 304 - - 44.745 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:52:552] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 304 - - 36.675 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:52:552] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/users/current-user 304 - - 33.247 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:52:552] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/cart 304 - - 149.733 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:52:552] [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/cart 304 - - 34.641 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:58:558] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.267 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:05:58:558] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:05:58:558] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 12.403 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:06:14:614] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.138 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:06:14:614] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:06:14:614] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 10.203 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:07:04:74] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.925 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:07:04:74] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:07:04:74] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 202.737 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:20:920] [35mhttp[39m: [35m::ffff:127.0.0.1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 1.554 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:20:920] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:09:20:920] [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/orders/provider/razorpay 401 1100 - 301.533 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:26:926] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.373 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:26:926] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:09:26:926] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 9.080 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:34:934] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 125.023 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:34:934] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 35.943 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:34:934] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 47.547 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:34:934] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 68.120 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:34:934] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 21.788 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:34:934] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 47.542 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:45:945] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.473 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:09:49:949] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 0.163 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:11:25:1125] [35mhttp[39m: [35m::1 OPTIONS /api/v1/users/login 204 0 - 2.258 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:11:26:1126] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 1016.577 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:11:27:1127] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 85.727 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:11:27:1127] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 35.595 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:11:31:1131] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.277 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:11:31:1131] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:11:31:1131] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 21.726 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:14:21:1421] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 1.472 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:14:21:1421] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:14:21:1421] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 330.612 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:18:1518] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 389.083 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:18:1518] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 65.792 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:19:1519] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 157.628 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:19:1519] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 85.253 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:19:1519] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 966.155 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:19:1519] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 142.915 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:19:1519] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 95.637 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:19:1519] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 70.085 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:29:1529] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 6.925 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:15:29:1529] [31merror[39m: [31mUnauthorized request[39m
+[22 Sep, 2024 - 02:15:29:1529] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 401 1100 - 767.654 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 568.535 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 62.308 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 206.902 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 282.971 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 55.015 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 21.992 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 62.980 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:05:185] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 37.046 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:07:187] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 1.594 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:09:189] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 2093.059 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:11:1811] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 217.597 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:18:57:1857] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 144.564 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:19:44:1944] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 78.121 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:12:2012] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 23.468 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:18:2018] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 2.966 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:19:2019] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 1188.031 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:29:2029] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 34.613 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 92.910 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 63.637 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 67.211 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 38.282 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 41.479 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 304 - - 35.411 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 180.251 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:36:2036] [35mhttp[39m: [35m::1 GET /api/v1/cart 304 - - 53.673 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:39:2039] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.323 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:40:2040] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 908.619 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:54:2054] [35mhttp[39m: [35m::1 OPTIONS /api/v1/orders/provider/razorpay 204 0 - 0.156 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[22 Sep, 2024 - 02:20:55:2055] [35mhttp[39m: [35m::1 POST /api/v1/orders/provider/razorpay 200 291 - 977.111 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m

@@ -21,6 +21,7 @@ import { asyncHandler } from "../utils/asyncHandler";
 import { ApiResponse } from "../utils/ApiResponse";
 import { User } from "@prisma/client";
 import { forgotPasswordMailgenContent, sendMail } from "../utils/mail";
+import axios from "axios";
 
 const generateAcessandRefreshToken = async (userId: number) => {
   try {
@@ -57,9 +58,21 @@ const generateAcessandRefreshToken = async (userId: number) => {
     );
   }
 };
+const verifyRecaptcha = async (token: string) => {
+  const secretKey = process.env.CAPTCHA_SECRET_KEY;
+  const verifyUrl = `https://www.google.com/recaptcha/api/siteverify?secret=${secretKey}&response=${token}`;
+
+  try {
+    const response = await axios.post(verifyUrl);
+    return response.data.success;
+  } catch (error) {
+    console.error("reCAPTCHA verification failed:", error);
+    return false;
+  }
+};
 
 export const login = asyncHandler(async (req: Request, res: Response) => {
-  const { email, password } = req.body;
+  const { email, password, recaptchaToken } = req.body;
 
   //find user by email
   const user = await prismaClient.user.findUnique({
@@ -67,6 +80,11 @@ export const login = asyncHandler(async (req: Request, res: Response) => {
       email: email,
     },
   });
+  const isHuman = await verifyRecaptcha(recaptchaToken);
+  console.log(isHuman);
+  if (!isHuman) {
+    throw new ApiError(404, "reCAPTCHA verification failed");
+  }
 
   //if usernot found send the error simply
   if (user == null) {
@@ -137,19 +155,23 @@ export const login = asyncHandler(async (req: Request, res: Response) => {
     );
 });
 
-export const logout = asyncHandler(async (req: Request, res: Response) => {
-  // Clear cookies
-  res.clearCookie("accessToken");
-  res.clearCookie("refreshToken");
+export const logout = asyncHandler(
+  async (req: IGetUserAuthInfoRequest, res: Response) => {
+    // Clear cookies
+    res.clearCookie("accessToken");
+    res.clearCookie("refreshToken");
 
-  //  invalidate the refresh token in the database here
-  // For example:
-  // await prismaClient.refreshToken.delete({ where: { userId: req.user.id } });
+    //  invalidate the refresh token in the database here
+    // For example:
+    // await prismaClient.refreshToken.deleteMany({
+    //   where: { userId: req.user.id },
+    // });
 
-  return res
-    .status(200)
-    .json(new ApiResponse(200, {}, "Logged out successfully"));
-});
+    return res
+      .status(200)
+      .json(new ApiResponse(200, {}, "Logged out successfully"));
+  }
+);
 export const getCurrentUser = asyncHandler(
   async (req: Request, res: Response) => {
     // Assuming you have a middleware that attaches the user to the request
