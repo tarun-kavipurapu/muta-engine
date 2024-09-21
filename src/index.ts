@@ -43,8 +43,10 @@ passportInitialize(passport);
 //routes
 import userRoutes from "./routes/user.routes";
 import productRoutes from "./routes/product.routes";
+import orderRoutes from "./routes/order.routes";
 app.use("/api/v1/users", userRoutes);
 app.use("/api/v1/product", productRoutes);
+app.use("/api/v1/orders",orderRoutes)
 
 app.get("/", (req, res) => {
   res.send("Hello, world!");

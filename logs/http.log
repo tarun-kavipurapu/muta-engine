@@ -332,3 +332,15 @@
 [21 Sep, 2024 - 01:42:39:4239] [35mhttp[39m: [35m::1 POST /api/v1/users/forgot-password 200 105 - 3624.357 ms - PostmanRuntime/7.42.0[39m
 [21 Sep, 2024 - 01:43:27:4327] [35mhttp[39m: [35m::1 POST /api/v1/users/reset-password/a482175d6c20bdfe77b8f007fbaa2e14617474b9 200 83 - 154.677 ms - PostmanRuntime/7.42.0[39m
 [21 Sep, 2024 - 01:43:44:4344] [35mhttp[39m: [35m::1 POST /api/v1/users/login 200 750 - 136.062 ms - PostmanRuntime/7.42.0[39m
+[21 Sep, 2024 - 11:01:07:17] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 11:01:07:17] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 33.231 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 11:01:07:17] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 11:01:07:17] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.206 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 11:14:56:1456] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 11:14:56:1456] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 40.523 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 11:14:56:1456] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 11:14:56:1456] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 3.207 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[39m
+[21 Sep, 2024 - 11:28:27:2827] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 11:28:27:2827] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 29.483 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m
+[21 Sep, 2024 - 11:28:27:2827] [31merror[39m: [31mUnauthorized request[39m
+[21 Sep, 2024 - 11:28:27:2827] [35mhttp[39m: [35m::1 GET /api/v1/users/current-user 401 1110 - 10.786 ms - Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36[39m

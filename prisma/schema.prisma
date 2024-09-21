@@ -24,6 +24,9 @@ model User {
   createdAt          DateTime             @default(now())
   updatedAt          DateTime             @updatedAt
   passwordResetToken PasswordResetToken[]
+  Cart               Cart[]
+  Product            Product[]
+  EcomOrder          EcomOrder[]
 
   @@index([email])
   @@map("users")
@@ -51,4 +54,72 @@ model PasswordResetToken {
 enum AvailableSocialLogins {
   GOOGLE
   EMAIL_PASSWORD
+}
+
+model Cart {
+  id      Int  @id @default(autoincrement())
+  ownerId Int
+  user    User @relation(fields: [ownerId], references: [id])
+
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  CartItem  CartItem[]
+}
+
+model CartItem {
+  id     Int  @id @default(autoincrement())
+  cartId Int
+  cart   Cart @relation(fields: [cartId], references: [id])
+
+  productId Int
+  product   Product @relation(fields: [productId], references: [id])
+
+  quantity Int @default(1)
+}
+
+//!for the multiple array off Images just create a seperate model for manny-many realtio
+model Product {
+  id          Int    @id @default(autoincrement())
+  name        String
+  description String
+  price       Float  @default(0)
+  stock       Int    @default(0)
+
+  mainImageUrl String // Foreign key to Image (main product image)
+
+  ownerId Int // Foreign key to User (product owner)
+  owner   User @relation(fields: [ownerId], references: [id])
+
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+  CartItem  CartItem[]
+  OrderItem OrderItem[]
+}
+
+// EcomOrder model to handle order processing
+model EcomOrder {
+  id         Int  @id @default(autoincrement())
+  customerId Int
+  customer   User @relation(fields: [customerId], references: [id])
+
+  items OrderItem[]
+
+  orderPrice      Float
+  paymentProvider String
+  paymentId       String?
+  isPaymentDone   Boolean @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model OrderItem {
+  id      Int       @id @default(autoincrement())
+  orderId Int
+  order   EcomOrder @relation(fields: [orderId], references: [id])
+
+  productId Int
+  product   Product @relation(fields: [productId], references: [id])
+
+  quantity Int @default(1)
 }
