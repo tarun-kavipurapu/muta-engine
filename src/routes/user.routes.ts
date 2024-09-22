@@ -19,13 +19,11 @@ import passport from "passport";
 import { verifyJWT } from "../middlewares/auth.middleware";
 
 const router = Router();
-console.log("i am in routes");
 router.route("/login").post(Validate(loginSchema), login);
 router.route("/signup").post(Validate(signupSchema), signup);
 router.post("/logout", verifyJWT, logout);
 router.get("/current-user", verifyJWT, getCurrentUser);
 
-console.log("i am here");
 router.get(
   "/google",
   passport.authenticate("google", {

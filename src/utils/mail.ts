@@ -71,6 +71,7 @@ export const orderConfirmationMailgenContent = (
   items: any,
   totalCost: number
 ) => {
+  console.log("i am here ");
   return {
     body: {
       name: username,

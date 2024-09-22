@@ -56,10 +56,11 @@ const orderFulfillmentHelper = async (
       data: { stock: { decrement: item.quantity } },
     })
   );
+  console.log(stockUpdates);
 
   await prisma.$transaction(stockUpdates);
 
-  await sendMail({
+  const mailSend = await sendMail({
     email: req.user.email,
     subject: "Order confirmed",
     mailgenContent: orderConfirmationMailgenContent(
@@ -69,6 +70,7 @@ const orderFulfillmentHelper = async (
     ),
   });
 
+  console.log(mailSend);
   await prisma.cart.update({
     where: { id: cart.id },
     data: {
@@ -170,6 +172,7 @@ const verifyRazorpayPayment = asyncHandler(
 
     if (expectedSignature === razorpay_signature) {
       const order = await orderFulfillmentHelper(razorpay_order_id, req);
+
       return res
         .status(201)
         .json(new ApiResponse(201, order, "Order placed successfully"));

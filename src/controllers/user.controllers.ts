@@ -81,7 +81,6 @@ export const login = asyncHandler(async (req: Request, res: Response) => {
     },
   });
   const isHuman = await verifyRecaptcha(recaptchaToken);
-  console.log(isHuman);
   if (!isHuman) {
     throw new ApiError(404, "reCAPTCHA verification failed");
   }
@@ -274,7 +273,7 @@ export const handleSocialLogin = asyncHandler(
       .cookie("refreshToken", refreshToken, options) // set the refresh token in the cookie
       .redirect(
         // redirect user to the frontend with access and refresh token in case user is not using cookies
-        `${process.env.CLIENT_SSO_REDIRECT_URL}?accessToken=${accessToken}&refreshToken=${refreshToken}`
+        `${process.env.CLIENT_SSO_REDIRECT_URL}`
       );
   }
 );
